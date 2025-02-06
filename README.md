@@ -1,1 +1,4 @@
-# my_first_file
+c++ ADDITION
+int a;
+int b;
+int sum = a+b;
